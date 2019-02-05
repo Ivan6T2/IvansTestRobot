@@ -111,7 +111,7 @@ public class Robot extends IterativeRobot {
 
      switch(m_autonState)
     {
-        case MOVE1:
+        case junkkMOVE1:
         break;
         case MOVE2:
         break;
